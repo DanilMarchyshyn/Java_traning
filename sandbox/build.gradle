@@ -1,0 +1,14 @@
+apply plugin: 'java'
+apply plugin: 'application'
+mainClassName = "ua.stqa.ptf.sandbox.MyFirstProgram"
+//mainClassName = "MyFirstProgram"
+
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {// https://mvnrepository.com/artifact/org.testng/testng
+    testCompile group: 'org.testng', name: 'testng', version: '6.8.8'
+}
+

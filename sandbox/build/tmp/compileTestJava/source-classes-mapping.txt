@@ -1,0 +1,2 @@
+ua/stqa/ptf/sandbox/SquareTests.java
+ ua.stqa.ptf.sandbox.SquareTests

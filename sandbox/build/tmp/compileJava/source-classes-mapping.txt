@@ -1,0 +1,6 @@
+ua/stqa/ptf/sandbox/MyFirstProgram.java
+ ua.stqa.ptf.sandbox.MyFirstProgram
+ua/stqa/ptf/sandbox/Square.java
+ ua.stqa.ptf.sandbox.Square
+ua/stqa/ptf/sandbox/Rectangle.java
+ ua.stqa.ptf.sandbox.Rectangle
